@@ -1,0 +1,239 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-07-15T13:17:11.683Z",
+  "pages": [
+    {
+      "id": "npc-cypher",
+      "title": "Cypher",
+      "path": "wiki/pages/cypher.md",
+      "type": "npc",
+      "tags": [
+        "demo",
+        "npc"
+      ],
+      "links": [
+        "organization-the-traditions",
+        "location-the-loft-chantry",
+        "lore-the-technocracy",
+        "organization-the-traditions",
+        "lore-the-technocracy",
+        "character-jax",
+        "item-the-talisman-drive",
+        "lore-the-technocracy",
+        "item-the-talisman-drive",
+        "organization-the-traditions"
+      ],
+      "aliases": [],
+      "summary": "Void Engineer defector. Fled the Technocracy with its secrets and a target on her back.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "character-jax",
+      "title": "Jax",
+      "path": "wiki/pages/jax.md",
+      "type": "character",
+      "tags": [
+        "demo",
+        "pc"
+      ],
+      "links": [
+        "organization-the-traditions",
+        "item-the-talisman-drive",
+        "npc-cypher",
+        "character-jax",
+        "location-the-loft-chantry",
+        "organization-the-traditions",
+        "character-jax",
+        "npc-cypher",
+        "character-jax",
+        "item-the-talisman-drive",
+        "character-jax"
+      ],
+      "aliases": [],
+      "summary": "Virtual Adept. A sample player character.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "event-mage-the-ascension-opening-situation",
+      "title": "Mage: The Ascension Opening Situation",
+      "path": "wiki/pages/mage-the-ascension-opening-situation.md",
+      "type": "event",
+      "tags": [
+        "demo",
+        "opening",
+        "gm"
+      ],
+      "links": [
+        "location-the-loft-chantry",
+        "npc-cypher",
+        "organization-the-traditions",
+        "item-the-talisman-drive",
+        "lore-the-technocracy",
+        "character-jax",
+        "npc-cypher",
+        "organization-the-traditions",
+        "lore-the-technocracy",
+        "location-the-loft-chantry",
+        "npc-cypher",
+        "organization-the-traditions",
+        "item-the-talisman-drive",
+        "lore-the-technocracy"
+      ],
+      "aliases": [],
+      "summary": "A ready-to-run first situation for the Mage: The Ascension demo.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "lore-mage-the-ascension-primer",
+      "title": "Mage: The Ascension — Player Primer",
+      "path": "wiki/pages/mage-the-ascension-primer.md",
+      "type": "lore",
+      "tags": [
+        "demo",
+        "reference"
+      ],
+      "links": [
+        "event-mage-the-ascension-opening-situation",
+        "location-the-loft-chantry",
+        "organization-the-traditions",
+        "character-jax"
+      ],
+      "aliases": [],
+      "summary": "Mage: The Ascension demos should be about belief colliding with reality.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "character-test",
+      "title": "test",
+      "path": "wiki/pages/test.md",
+      "type": "character",
+      "tags": [
+        "pc",
+        "character",
+        "sheet"
+      ],
+      "links": [
+        "unresolved:faction",
+        "unresolved:npc",
+        "unresolved:location"
+      ],
+      "aliases": [],
+      "summary": "Custom character sheet template.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "location-the-loft-chantry",
+      "title": "The Loft Chantry",
+      "path": "wiki/pages/the-loft-chantry.md",
+      "type": "location",
+      "tags": [
+        "demo",
+        "location"
+      ],
+      "links": [
+        "npc-cypher",
+        "organization-the-traditions",
+        "lore-the-technocracy",
+        "item-the-talisman-drive",
+        "npc-cypher",
+        "location-the-loft-chantry",
+        "organization-the-traditions",
+        "lore-the-technocracy",
+        "npc-cypher",
+        "character-jax",
+        "organization-the-traditions",
+        "location-the-loft-chantry",
+        "item-the-talisman-drive"
+      ],
+      "aliases": [],
+      "summary": "Reality-benders wage a secret war over what humanity is allowed to believe.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "item-the-talisman-drive",
+      "title": "The Talisman Drive",
+      "path": "wiki/pages/the-talisman-drive.md",
+      "type": "item",
+      "tags": [
+        "demo",
+        "item"
+      ],
+      "links": [
+        "organization-the-traditions",
+        "location-the-loft-chantry",
+        "item-the-talisman-drive",
+        "organization-the-traditions",
+        "npc-cypher",
+        "location-the-loft-chantry",
+        "item-the-talisman-drive",
+        "lore-the-technocracy"
+      ],
+      "aliases": [],
+      "summary": "An enchanted device storing a paradigm-shaking working — if it doesn't backfire.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "lore-the-technocracy",
+      "title": "The Technocracy",
+      "path": "wiki/pages/the-technocracy.md",
+      "type": "lore",
+      "tags": [
+        "demo",
+        "threat"
+      ],
+      "links": [
+        "location-the-loft-chantry",
+        "organization-the-traditions",
+        "item-the-talisman-drive",
+        "location-the-loft-chantry",
+        "organization-the-traditions",
+        "npc-cypher",
+        "item-the-talisman-drive",
+        "lore-the-technocracy"
+      ],
+      "aliases": [],
+      "summary": "An order enforcing a rational world, one erased miracle at a time.",
+      "visibility": "gm",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    },
+    {
+      "id": "organization-the-traditions",
+      "title": "The Traditions",
+      "path": "wiki/pages/the-traditions.md",
+      "type": "organization",
+      "tags": [
+        "demo",
+        "faction"
+      ],
+      "links": [
+        "location-the-loft-chantry",
+        "item-the-talisman-drive",
+        "npc-cypher",
+        "lore-the-technocracy",
+        "npc-cypher",
+        "location-the-loft-chantry",
+        "lore-the-technocracy"
+      ],
+      "aliases": [],
+      "summary": "A fractious alliance of mystics defending wonder from grey conformity.",
+      "visibility": "players",
+      "approvalStatus": "approved",
+      "keyLinks": []
+    }
+  ]
+}
